@@ -33,7 +33,7 @@
     "playwright": "^1.29.2",
     "prisma": "^4.8.1",
     "typescript": "^4.9.4",
-    "unplugin-auto-import": "^0.12.1",
+    "unplugin-auto-import": "^0.16.4",
     "unplugin-vue-components": "^0.22.12",
     "uuid": "^9.0.0",
     "vite-svg-loader": "^3.6.0",
